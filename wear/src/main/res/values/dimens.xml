@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- time offsets -->
+    <dimen name="digital_x_offset_time">10dp</dimen>
+    <!--<dimen name="digital_x_offset_time_round">40dp</dimen>-->
+    <dimen name="digital_y_offset_time">90dp</dimen>
+    <dimen name="digital_y_offset_time_round">85dp</dimen>
+    <dimen name="digital_text_size">45dp</dimen>
+    <dimen name="digital_text_size_round">50dp</dimen>
+    <!-- date offsets -->
+    <dimen name="digital_x_offset_date">15dp</dimen>
+    <!--<dimen name="digital_x_offset_date_round">65dp</dimen>-->
+    <dimen name="digital_y_offset_date">120dp</dimen>
+    <dimen name="digital_y_offset_date_round">110dp</dimen>
+    <dimen name="digital_text_date_size_round">20dp</dimen>
+    <dimen name="digital_text_date_size">15dp</dimen>
+    <!-- image offsets -->
+    <dimen name="image_x_offset">88dp</dimen>
+    <dimen name="image_x_offset_round">60dp</dimen>
+    <dimen name="image_y_offset">88dp</dimen>
+    <dimen name="image_y_offset_round">125dp</dimen>
+    <!-- Max & min temperature offsets -->
+    <dimen name="max_temperature_x_offset">15dp</dimen>
+    <dimen name="max_temperature_x_offset_round">50dp</dimen>
+    <dimen name="min_temperature_x_offset">60dp</dimen>
+    <dimen name="min_temperature_x_offset_round">50dp</dimen>
+    <dimen name="temperature_y_offset">155dp</dimen>
+    <dimen name="temperature_y_offset_round">160dp</dimen>
+    <dimen name="temperature_text_size">20dp</dimen>
+    <dimen name="temperature_text_size_round">25dp</dimen>
+
+</resources>

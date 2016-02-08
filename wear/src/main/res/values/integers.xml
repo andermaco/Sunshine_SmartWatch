@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- animation ranges -->
+    <integer name="animation_x_offset">6</integer>
+    <integer name="animation_y_offset">6</integer>
+    <integer name="animation_x_offset_round">0</integer>
+    <integer name="animation_y_offset_round">6</integer>
+</resources>

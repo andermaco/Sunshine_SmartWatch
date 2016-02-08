@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sunshine Watchface</string>
+    <string name="my_digital_name">Sunshine</string>
+
+    <!-- max, min, weather_id default -->
+    <string name="max_temperature">--</string>
+    <string name="min_temperature">--</string>
+    <string name="weather_id">--</string>
+    <string name="grace">º</string>
+
+</resources>

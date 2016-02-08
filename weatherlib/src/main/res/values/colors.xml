@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background colors -->
+    <color name="clouds">#0288D1</color>
+    <color name="light_clouds">#E1F5FE</color>
+    <color name="clear">#81D4FA</color>
+    <color name="storm">#52535b</color>
+    <color name="fog">#BDBDBD</color>
+    <color name="snow">#FAFAFA</color>
+    <color name="rain">#01579B</color>
+    <color name="light_rain">#0288D1</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#000000</color>
+
+    <!-- Font colours background based -->
+    <color name="font_clear">#FFFFFF</color>
+    <color name="font_dark">#000000</color>
+
+
+
+</resources>

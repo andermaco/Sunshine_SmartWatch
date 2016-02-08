@@ -24,7 +24,7 @@ import java.util.TimerTask;
 public class WearUpdateService extends Service implements ConnectionCallbacks, OnConnectionFailedListener {
 
     private static final String LOG_TAG = WearUpdateService.class.getSimpleName();
-    public static final long NOTIFY_INTERVAL = 10 * 1000; // 10 seconds
+    public static final long NOTIFY_INTERVAL = 60 * 1000; // 60 seconds
     private Handler mHandler = new Handler();
     private Timer mTimer = null;
     WeatherDataField weather;
